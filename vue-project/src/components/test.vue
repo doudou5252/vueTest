@@ -23,7 +23,6 @@
       testAjax (){
         this.$store.dispatch('getActivity',5)
 
-        console.log(this.opp)
       }
     }
   }
